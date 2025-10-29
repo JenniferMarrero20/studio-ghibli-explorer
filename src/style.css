@@ -1,0 +1,77 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(180deg, #99bdff, #d1baf7);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.container {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  max-width: 700px;
+  width: 90%;
+  text-align: center;
+}
+
+h1 {
+  color: #374151;
+  margin-bottom: 1rem;
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  color: #2e3a59;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  color: #1d2027;
+  margin-top: 1rem;
+}
+
+img {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
+p {
+  color: #000000;
+  margin: 0.5rem 0;
+}
+
+button {
+  background: #4b7bec;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #3867d6;
+}
+
+.ban-list {
+  margin-top: 1rem;
+}
+
+.ban-button {
+  background: rgba(255, 0, 0, 0.1);
+  color: crimson;
+  border: 1px solid crimson;
+  border-radius: 8px;
+  padding: 4px 10px;
+  margin: 4px;
+  cursor: pointer;
+}
