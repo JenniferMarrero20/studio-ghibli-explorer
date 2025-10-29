@@ -44,10 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video width="640" controls autoplay loop muted>
-  <source src="https://i.imgur.com/yFQSyZJ.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://raw.githubusercontent.com/JenniferMarrero20/studio-ghibli-explorer/main/WEB102_Week5_Jennifer_Marrero-ezgif.com-optimize%20(1).gif" width="600" alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
